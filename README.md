@@ -1,3 +1,3 @@
 # RGB-bot
-<br> Einfaldur bot sem ýtir á ákveðinn pixel ef pixelinn breytist í ákveðinn lit.
-<br> Gott forrit til að rústa highscores á einföldum clicker leikjum.
+<br> Einfaldir bottar sem annað hvort ýta á pixel ef liturinn á því breytist eða ef t.d. leitar á mynd eftir ákveðnum lit á pixel og ýtir á hann.
+<br> Góð forrit til að rústa highscores á einföldum clicker leikjum.
